@@ -7,3 +7,16 @@ The command "tuer" takes one parameter, which is the PID of a process you might 
 
     Usage: tuer <PID> 
       The PID has to be an integer and also has to exist in the List of Processes running in the program.
+
+
+The only way to quit the program is by entering the command "quitter" or buy closing the terminal
+    
+        Usage: quitter
+        After that, you have to choose between yes (o or O) to exit 
+        Or anything else to keep running the program
+        
+lister command usage;
+     
+            Usage: lister
+
+The program uses signal to capture the SIGCHLD signal and redirect erroers into a file named "erreurs.txt" 
