@@ -1,8 +1,5 @@
 #! /usr/bin/python3
 #-*- coding: utf-8 -*-
-# Nom: Kevin Nelson Moudio
-# DA: 1769692
-# Prof. Mr Eric W.
 # Dans le cadre du cours de Systeme d'exploitation
 # TP 2
 # Version 7.0
